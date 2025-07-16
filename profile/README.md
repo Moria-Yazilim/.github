@@ -41,7 +41,7 @@ Odaklandığımız alanlar:
 
 | Proje Adı        | Açıklama                        | Durum   |
 |------------------|----------------------------------|---------|
-| `website`  | Next.js ile hazırlanmış portföy site | ✅ Yayında |
+| `website`  | Moria Yazılımın Sitesi | ✅ Yayında |
 
 ---
 
